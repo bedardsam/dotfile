@@ -10,3 +10,6 @@
 
 # vim
 - [comment block](https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim)
+
+# font
+- [cascadia code](https://github.com/microsoft/cascadia-code)
