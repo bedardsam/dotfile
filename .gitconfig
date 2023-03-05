@@ -1,0 +1,7 @@
+[alias]
+  loga = log --decorate=auto --graph --pretty='tformat:%C(auto)%h%Cblue(%an)%C(auto) %Cgreen%as%C(auto)%d %s'
+  logr = log --decorate=auto --graph --pretty='tformat:%C(auto)%h%Cblue(%an)%C(auto) %Cgreen%ar%C(auto)%d %s'
+  stat = status
+  root = rev-parse --show-toplevel
+  amend = commit --amend --no-edit
+  last = logr -5
