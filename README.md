@@ -13,3 +13,6 @@
 
 # font
 - [cascadia code](https://github.com/microsoft/cascadia-code)
+
+# tmux
+- (tmux theme)[https://github.com/jimeh/tmux-themepack]
