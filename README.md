@@ -16,3 +16,8 @@
 
 # tmux
 - [tmux theme](https://github.com/jimeh/tmux-themepack)
+
+for color issue sometime starting with this it works
+```shell
+tmux -2
+```
