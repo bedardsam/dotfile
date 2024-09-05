@@ -22,3 +22,10 @@ for color issue sometime starting with this it works
 ```shell
 tmux -2
 ```
+
+for ssh not displaying powerline properly use below
+
+https://stackoverflow.com/questions/67929676/tmux-powerline-symbols-not-rendering-properly-despite-having-proper-fonts-instal
+```shell
+tmux -u
+```
