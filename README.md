@@ -6,6 +6,9 @@
 - [tmux guide](https://github.com/tmux/tmux/wiki#welcome-to-tmux)
 - [tmux status line](https://arcolinux.com/everything-you-need-to-know-about-tmux-status-bar/)
 
+for tmux clipboard
+- https://github.com/tmux/tmux/wiki/Clipboard
+
 
 
 # vim
