@@ -32,3 +32,8 @@ https://stackoverflow.com/questions/67929676/tmux-powerline-symbols-not-renderin
 ```shell
 tmux -u
 ```
+
+reload config
+```shell
+tmux source ~/.tmux.conf
+```
