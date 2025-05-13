@@ -1,3 +1,28 @@
+[init]
+	defaultBranch = main
+[column]
+	ui = auto
+[branch]
+	sort = -committerdate
+[help]
+	autocorrect = prompt
+[color]
+	status = auto
+	diff = auto
+[merge]
+	tool = kdiff3
+[core]
+	editor = nvim
+	pager = cat
+[tag]
+	sort = version:refname
+[diff]
+	alogorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[fetch]
+	prune = true
 [alias]
   loga = log --decorate=auto --graph --pretty='tformat:%C(auto)%h %Cblue(%an)%C(auto) %Cgreen%as%C(auto)%d %s'
   logr = log --decorate=auto --graph --pretty='tformat:%C(auto)%h %Cblue(%an)%C(auto) %Cgreen%ar%C(auto)%d %s'
