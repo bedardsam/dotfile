@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.suggestSelection": "first",
+    "editor.insertSpaces": false,
+    "editor.fontFamily": "'cascadia code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "todohighlight.isEnable": true,
+    "workbench.colorTheme": "Default Dark+",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "redhat.telemetry.enabled": false,
+    "[rust]": {
+        "editor.formatOnSave": true
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
