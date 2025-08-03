@@ -37,3 +37,9 @@ reload config
 ```shell
 tmux source ~/.tmux.conf
 ```
+# Powershell
+Start up command to use posh
+
+```powershell
+powershell.exe -noprofile -noexit -command "invoke-expression '. ''~/.config/posh/profileWT.ps1''' "
+```
