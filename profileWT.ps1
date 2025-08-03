@@ -1,2 +1,1 @@
-Import-Module oh-my-posh
-Set-PoshPrompt -Theme slimfat
+oh-my-posh init pwsh --config ~/.config/posh/slimfat.omp.json | Invoke-Expression
